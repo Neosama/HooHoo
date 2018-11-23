@@ -14,6 +14,7 @@ std::string Dawkins = "Natural selection is anything but random.";
 #### AFTER
 ```cpp
 // ALL STRINGS
+
 std::string mysecretstring = decrypt("Q6vrzQHcjbMk A3 6vRd4w1 bU2nBRmejf5 9 YnBuVei8Mf9 rs95==", "9o5hyZO0gKl4"); // STRING(I don't know what to write in this file.) PASS(9o5hyZO0gKl4)
 std::string Heyerdahl = decrypt("SVDCmRmaiCX 9aGnzKijPCX W DwzuZPkrMT MvqzQElhfwcWaLs6vqehwMl9 HwBvYj", "9o5hyZO0gKl4"); // STRING(Progress is man's ability to complicate simplicity.) PASS(9o5hyZO0gKl4)
 std::string Twain = decrypt("Gs7 L3fZaSIm1NPdx3f0 xvlx7H Ys8bGb2vO3zWu8r5Xrhx4izYYsJbWxIm1NL0AJfC9bIAx7jdu8v1XnYqO7TWY3f59rlmAH==", "0B9PXBPN9Gxb"); // STRING(Good friends, good books and a sleepy conscience: this is the ideal life.) PASS(0B9PXBPN9Gxb)
